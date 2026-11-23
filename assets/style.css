@@ -366,6 +366,8 @@ ul, ol { margin: 0; padding: 0; list-style: none; }
 }
 .event-date .d { font-size: 30px; font-weight: 800; line-height: 1; letter-spacing: -.03em; }
 .event-date .m { font-size: 12px; font-weight: 600; opacity: .85; }
+.event-soon { background: var(--orange); }
+.event-soon .d { font-size: 22px; letter-spacing: -.01em; }
 .tag {
   display: inline-block;
   font-size: 11.5px;
